@@ -1,6 +1,6 @@
 {
-  "name": "weekly-generator",
-  "version": "0.1.0",
+  "name": "create-weekly-post",
+  "version": "0.1.1",
   "description": "Generate your weekly post template.",
   "main": "index.js",
   "author": "Eric Cheng",

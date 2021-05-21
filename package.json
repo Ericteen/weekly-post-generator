@@ -1,0 +1,28 @@
+{
+  "name": "weekly-generator",
+  "version": "0.1.0",
+  "description": "Generate your weekly post template.",
+  "main": "index.js",
+  "author": "Eric Cheng",
+  "license": "MIT",
+  "bin": {
+    "create-weekly-post": "index.js",
+    "cwp": "index.js"
+  },
+  "files": [
+    "index.js",
+    "templates"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ericteen/weekly-post-generator.git",
+    "directory": "packages/create-app"
+  },
+  "bugs": {
+    "url": "https://github.com/Ericteen/weekly-post-generator/issues"
+  },
+  "homepage": "https://github.com/Ericteen/weekly-post-generator#readme",
+  "dependencies": {
+    "enquirer": "^2.3.6"
+  }
+}

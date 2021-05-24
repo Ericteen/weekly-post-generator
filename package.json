@@ -16,7 +16,6 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Ericteen/weekly-post-generator.git",
-    "directory": "packages/create-app"
   },
   "bugs": {
     "url": "https://github.com/Ericteen/weekly-post-generator/issues"
